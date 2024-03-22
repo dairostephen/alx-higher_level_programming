@@ -1,4 +1,2 @@
-/* DESCRIPTION OF SQL CODES
-TO PRINT OUT THE TABLES CONTAINED JN THE DATABASE
-*/
-USE msql; SHOW TABLES;
+-- List databases and tables using this code
+SHOW TABLES;
